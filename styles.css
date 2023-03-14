@@ -5,4 +5,5 @@ body {
 h1 {
     color: rgb(72, 34, 177);
     font-size: 25px;
+    margin: auto;
 }
